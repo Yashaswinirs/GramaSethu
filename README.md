@@ -1,5 +1,5 @@
-Grama-Sethu 🌉
-Rural Bridge Connectivity Monitor
+##Grama-Sethu 🌉
+##Rural Bridge Connectivity Monitor
 A crowdsourced Android app for monitoring bridge conditions 
 in rural Karnataka during monsoon season.
 ## Features
