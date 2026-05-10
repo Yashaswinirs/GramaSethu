@@ -113,7 +113,7 @@ https://drive.google.com/file/d/1r1wXWuMsD3bKyrXJ9tp9v31STuBq_BDA/view?usp=shari
 
 
 ## 👩‍💻 Built By
-Yashaswini Sajjanshettar
+Yashaswini Sajjanshettar,
 MindMatrix Internship 
 Project Title :96
 Android App Development using GenAI - Grama-Sethu (Public
