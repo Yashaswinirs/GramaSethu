@@ -107,8 +107,15 @@ com.example.gramasethu/
 - **Smart Infrastructure** ✅ — Digital status layer with real-time crowd updates for every bridge
 
 ---
+## ⚡ Quick Install (No Setup Required)
+Download and install the APK directly on any Android phone:
+https://drive.google.com/file/d/1r1wXWuMsD3bKyrXJ9tp9v31STuBq_BDA/view?usp=sharing 
+
 
 ## 👩‍💻 Built By
 Yashaswini Sajjanshettar
 MindMatrix Internship 
-Project #96 — Grama-Sethu (Public Infrastructure)
+Project Title :96
+Android App Development using GenAI - Grama-Sethu (Public
+Infrastructure)
+
